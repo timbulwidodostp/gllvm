@@ -1,6 +1,8 @@
 # gllvm
 Generalized Linear Latent Variable Models Use gllvm With (In) R Software
 
+https://www.youtube.com/watch?v=EBaGXGVjP2g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
